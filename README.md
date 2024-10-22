@@ -1,8 +1,9 @@
 # Pong
 ## Game Engine Design - UML
 1. [System description](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#the-main-logicconcepts-of-the-future-game)
-2. [Activity diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#activity-diagram)
-3. [State diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#state-diagram)
+2. [Class diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#class-diagram)
+3. [Activity diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#activity-diagram)
+4. [State diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#state-diagram)
 
 
 ### The main logic/concepts of the future game:
@@ -30,10 +31,14 @@
 - Finally, user (or users) can play:  
     ![](Modes.png)
 
+    
+### Class diagram
+![](ClassDiagram.png)
 
+    
 ### Activity diagram
 ![](AnastasiiaDankevych_ActivityD.png)
 
-
+    
 ### State diagram
 ![](AnastasiiaDankevych_StateD.png)
