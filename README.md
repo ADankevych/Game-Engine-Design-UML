@@ -1,6 +1,6 @@
 # Pong
 ## Game Engine Design - UML
-1. [System description]([#-The-main-logic/concepts-of-the-future-game:](https://github.com/ADankevych/Game-Engine-Design-UML/edit/main/README.md#the-main-logicconcepts-of-the-future-game))
+1. [System description]([#-The-main-logic/concepts-of-the-future-game:)
 
 ### The main logic/concepts of the future game:
 ![](System_description_in_notepad.png)
