@@ -2,6 +2,7 @@
 ## Game Engine Design - UML
 1. [System description](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#the-main-logicconcepts-of-the-future-game)
 2. [Activity diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#activity-diagram)
+3. [State diagram](https://github.com/ADankevych/Game-Engine-Design-UML?tab=readme-ov-file#state-diagram)
 
 
 ### The main logic/concepts of the future game:
@@ -32,3 +33,7 @@
 
 ### Activity diagram
 ![](AnastasiiaDankevych_ActivityD.png)
+
+
+### State diagram
+![](AnastasiiaDankevych_StateD.png)
